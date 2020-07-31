@@ -9,7 +9,7 @@
 - ⚡ Fun fact: A snail can sleep for three years
 ---
 
-[![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=msashish&show_icons=true&hide_border=true)]
+[![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=msashish&show_icons=true&hide_border=true&theme=radical)]
 
 ---
 
