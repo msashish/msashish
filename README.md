@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on UI development
 - 🌱 and I’m currently learning react.js
-- 🤔 I’m looking for help with microservices
-- 💬 Ask me about python, django, flask, ci cd, cooking Indian gravy
+- 🤔 I’m looking for interesting App development opportunities
+- 💬 Ask me about React, python, django, flask, ci cd, cooking Indian gravy, or to draw
 - 📫 How to reach me: just here
 - ⚡ Fun fact: A snail can sleep for three years
 ---
