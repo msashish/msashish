@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on UI development
-- 🌱 and I’m currently learning react.js
+- 🔭 I’m currently working on UI development project
+- 🌱 and I’m experimenting with react.js
 - 🤔 I’m looking for interesting App development opportunities
-- 💬 Ask me about React, python, django, flask, ci cd, cooking Indian gravy, or to draw
+- 💬 Ask me about React, python, django, flask, ci cd, cooking Indian gravy, or to draw something
 - 📫 How to reach me: just here
 - ⚡ Fun fact: A snail can sleep for three years
 ---
