@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on UI development project
+- 🔭 I’m currently working on web development project
 - 🌱 and I’m experimenting with react.js
 - 🤔 I’m looking for interesting App development opportunities
 - 💬 Ask me about React, python, k8, ci cd, cooking Indian gravy, or to draw something
-- 📫 How to reach me: linkedin
+- 📫 You can reach me at linkedin
 - ⚡ Fun fact: A snail can sleep for three years
 ---
 
